@@ -1,0 +1,2 @@
+# Fouille-de-donnees
+Travail Pratique de Fouille de donnees\\Dans ce travail pratique, il vous a ete demande de travailler su les points ci-dessous: • Choisir un jeu de donnees qui constitue l’objet d’etudes pour tous les TPs du cours de fouille de donnees; • Faire une description detaillee de ce jeu de donnees (description des attributs, nombre d’individus, valeurs manquantes, probleme pose); • Faire une analyse exploratoire de chaque attribut; • Faire une analyse de lien entre chaque paire d’atributs.
